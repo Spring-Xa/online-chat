@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="jdk1" />
+  <library name="jdk1.8">
+    <archive path="D:/tools/Java/jdk1.8" />
+  </library>
+</eclipse-userlibraries>
+
