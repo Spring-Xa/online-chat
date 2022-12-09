@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 /**
- * @author 周志祥
+ * @author Spring-Xa
  */
 public class ServerChat extends JFrame {
     private static final int PORT = 9999;
