@@ -11,7 +11,7 @@ import java.net.UnknownHostException;
 
 /**
  * 创建客户端
- * @author yuche
+ * @author Spring-Xa
  */
 public class ClientChat extends JFrame{
     private final JTextArea ta = new JTextArea(10,20);
